@@ -119,3 +119,24 @@
   一度開発してしまえば、AWS と有料 API の費用以外には、保守費用のみしか発生しない。
 
 ## TikTok について
+
+上記のどのツールもTikTokは対応していないため、以下にTikTokの分析に関する調査報告を行う。
+
+TikTokの分析においては、公式のTikTok Pro Accountが最善であるとの記事が散見された。
+しかしながら、
+> TikTok Analytics will give you the latest statistics for posts from the past 7 to 28 days. 
+
+とあるように、日数制限が存在するようである。
+
+非公式のツールとしては、以下が存在する。
+
+- [MaveKite](https://mavekite.com/) free
+
+- [analisa.io](https://analisa.io/?ref=ffmedia&tm_subid1=tiktok)
+  analisa.ioは、InstagramとTikTokのみに対応しており、以下のような料金プランとなっている。
+  ![](public/analisa.png)
+  [詳細情報](https://analisa.io/pricing-plan)
+
+- [tiklog](https://tiklog.org/?ref=25e101ab)   
+  $ 3.57/month (per 1 account)
+  ![](public/tiklog.png)
