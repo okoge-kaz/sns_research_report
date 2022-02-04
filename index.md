@@ -78,8 +78,8 @@
   - 対応 SNS  
     Instagram, Facebook, Twitter,LikedInなど
   - Performace Overview  
-   [プラン比較](https://sproutsocial.com/pricing/)   
-   ![](public/sproutsocial.png)
+   [プラン比較](https://www.socialpilot.co/plans)   
+   ![](public/socialpilot_compare.png)
 
 ### 他のサービスを調べるにあたって
 他のサービスなどと比較する際は、以下のリンクが役立つ可能性が高いです。
